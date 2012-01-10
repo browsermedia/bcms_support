@@ -1,3 +1,4 @@
+require 'active_record'
 ActiveRecord::Schema.verbose = false
 
 begin

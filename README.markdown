@@ -10,9 +10,9 @@ BcmsSupport is a small but growing set of methods that aims to make testing Brow
 
 ### ActiveSupport::TestCase
   
-Edit config/environments/test.rb
+Edit Gemfile
 
-    config.gem "bcms_support"
+    gem "bcms_support"
     
 Edit test/test_helper.rb
 
@@ -24,9 +24,9 @@ Edit test/test_helper.rb
     
 ### Rspec
 
-Edit config/environments/test.rb
+Edit Gemfile
 
-    config.gem "bcms_support"
+    gem "bcms_support"
     
 Edit spec/spec_helper.rb
 
@@ -38,9 +38,9 @@ Edit spec/spec_helper.rb
     
 ### Cucumber
 
-Edit config/environments/cucumber.rb
+Edit Gemfile
 
-    config.gem "bcms_support"
+    gem "bcms_support"
     
 Edit features/support/env.rb
 
