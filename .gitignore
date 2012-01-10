@@ -19,7 +19,6 @@ rdoc
 pkg
 *.gem
 .document
-*.gemspec
 Gemfile.lock
 
 ## PROJECT::SPECIFIC
